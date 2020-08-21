@@ -1,3 +1,5 @@
+Angular app that has links to a variety of tutorials for different coding languages. 
+
 # SampleProject
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.7.
